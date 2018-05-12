@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45871#A-Fleet-in-BeingNotes-of-Two-Trips-With-The-Channel-Squadron
 gutenberg_issued: '2014-06-03'
 gutenberg_type: Text
 identifiers:
